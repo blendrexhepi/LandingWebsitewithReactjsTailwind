@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LandingWebsitewithReactjsTailwind/static/css/main.cadb9d0c.css",
+    "main.js": "/LandingWebsitewithReactjsTailwind/static/js/main.68c220c8.js",
+    "index.html": "/LandingWebsitewithReactjsTailwind/index.html",
+    "main.cadb9d0c.css.map": "/LandingWebsitewithReactjsTailwind/static/css/main.cadb9d0c.css.map",
+    "main.68c220c8.js.map": "/LandingWebsitewithReactjsTailwind/static/js/main.68c220c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cadb9d0c.css",
+    "static/js/main.68c220c8.js"
+  ]
+}
